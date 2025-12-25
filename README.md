@@ -20,4 +20,4 @@ StartupEvents.registry('block', event => {
 })
 ```
 ## CurseForge
-TODO
+[Link](https://legacy.curseforge.com/minecraft/mc-mods/kobb-kubejs-otherworld-block-builder)
